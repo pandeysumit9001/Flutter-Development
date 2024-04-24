@@ -1,6 +1,6 @@
 # learnx_e_larning
 
-A new Flutter project.
+A new Flutter project which is Learnx E-learning platform.
 
 ## Getting Started
 
